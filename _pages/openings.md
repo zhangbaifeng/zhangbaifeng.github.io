@@ -1,7 +1,7 @@
 ---
 title: "Baifeng Home - Motivations"
 layout: textlay
-excerpt: "Motivations"
+excerpt: "vacancies"
 sitemap: false
 permalink: /vacancies
 ---
