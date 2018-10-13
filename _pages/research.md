@@ -33,11 +33,9 @@ Summary: Applied network-based stratification (NBS) method in stratification of 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-**Sub: Population Genetics Research
+**Sub: Population Genetics Research**
 
-**Whole-Genome Resequencing of 330 indigenous inhabitants living along the Tibetan Yi Corridor
-
-BGI-shenzhen   08/2013-04/2014
+**Whole-Genome Resequencing of 330 indigenous inhabitants living along the Tibetan Yi Corridor** BGI-shenzhen   08/2013-04/2014
 Summary: Responsible for whole process of data mining including raw data filter, quality control, reads alignment, variants detection, variants annotation, data statistics.
 
 **Sub: Molecular Biology**
