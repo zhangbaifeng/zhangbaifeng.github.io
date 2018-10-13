@@ -12,19 +12,25 @@ permalink: /research/
 
 Sub: Cancer Genetics Research
 Project Handling: Designed a utra-sensitive and fast platform for the large-scale clinical screening of oncogenic fusions
+
 Karolinska Institutet, 04/2018-Present
+
 Summary: Wrote code and paper. Designed a companion data analysis platform named SplitFusion, to detect gene fusion based on split alignments, such as reads crossing fusion breakpoints, with the ability to accurately infer in-frame or out-of-frame of fusion partners of a given fusion candidate. SplitFusion also outputs example breakpoint-supporting sequences in FASTA format, allowing for further investigations. SplitFusion can economically and effectively distinguish true oncogenic fusions from environment noise, amplification or sequencing errors, especially for low quality input of clinical samples.
- 
 
 Project Handling: Deciphering genetic clonal diversity and evolution history of clear cell renal cell carcinomas
+
 BGI-Shenzhen,  05/2014-Present
+
 Summary: Administered and involved in all aspects of the project, wrote the paper independently. Responsible for the clonal evolution structure and immunogenicity analysis of 489 clear cell renal carcinomas patients from Japanese/Chinese/TCGA cohorts, including mutational signature analysis, intra-tumor heterogeneity and cancer evolution history analysis, tumor specific neo-antigen analysis, survival analysis. 
 
 Project Handling: Renal cancer genome study by whole genome sequencing of 61 tumor-normal pairs
+
 BGI-Shenzhen,  05/2014-Present
+
 Summary: Responsible for the personalized analysis of the project including the detection of somatic structure variants, false positive results filter, SV cluster chain identification, result interpretation, and pan-cancer integrated analysis of TCGA database.
 
 Project Handling: Ovarian cancer genome study by Reduced representation bisulfite sequencing and whole transcriptome sequencing of 21 tumor-normal pairs
+
 BGI-Shenzhen,  05/2014-Present
 Summary: Administered and involved in all aspects of the project. Responsible for the detection of differentially methylated regions (DMRs) and DMRs annotation, the correlation analysis between DMRs and gene expression/splice site/transcript factor site, to study the effect of epigenetic modifications in ovarian cancer tumorigenesis.
 
