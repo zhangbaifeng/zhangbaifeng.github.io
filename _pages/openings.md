@@ -21,5 +21,5 @@ Mining of tumor genomics database and applying deep learning algorithms to perfo
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/yading.jpg" width="95%">
 </figure>
