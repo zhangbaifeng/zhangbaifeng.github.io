@@ -55,7 +55,7 @@ Now, I am a researh assistant of [Zongli Zheng's group](https://ki.se/en/researc
   </a>
 </div>
 
- **I are applying for a PhD positon major in Cancer evolution, Immunology, and Deep learning** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **I am applying for a PhD positon major in Cancer evolution, Immunology, and Deep learning** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  
 
 <figure class="fourth">
