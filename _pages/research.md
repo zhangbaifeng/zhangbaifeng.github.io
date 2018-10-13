@@ -31,7 +31,7 @@ Summary: Administered and involved in all aspects of the project. Responsible fo
 Summary: Applied network-based stratification (NBS) method in stratification of Nasopharyngeal Carcinoma subtypes by clustering together patients with mutations in similar network regions, extracted molecular feature from NPC subtypes, identified some subtypes that are predictive of clinical outcomes such as patient survival.
 
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/cancer_evolution.png){: style="width: 300px; float: right; border: 10px"}
 
 **Sub: Population Genetics Research**
 
@@ -49,7 +49,7 @@ Summary: Designed a new loop-mediated isothermal amplification (LAMP) assay base
 Summary: Designed the PCR primer, Performed Molecular cloning experiment including Bacterial culture, Constructed vector, connection, conversion, coated plates, select monoclonal colony PCR.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/TCR.amp.png){: style="width: 300px; float: left; border: 10px"}
 
 # Work experience
 
