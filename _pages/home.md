@@ -27,13 +27,13 @@ Now, I am a researh assistant of [Zongli Zheng's group](https://ki.se/en/researc
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/circos-example.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCR.amp.png" alt="Slide 3" />
-        </div>
-        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cancer_evolution.png" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCR.amp.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/circos-example" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/survival.png" alt="Slide 4" />
