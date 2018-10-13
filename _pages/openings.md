@@ -3,7 +3,7 @@ title: "Baifeng Home - Motivations"
 layout: textlay
 excerpt: "Motivations"
 sitemap: false
-permalink: /motivations
+permalink: /vacancies
 ---
 
 # PhD motivations
