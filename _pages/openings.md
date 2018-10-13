@@ -20,6 +20,6 @@ Exploiting vaccines binding to tumor-specific neo-antigen to elicit immunoreacti
 Mining of tumor genomics database and applying deep learning algorithms to perform molecular subtyping. There are several well-established cancer databases such as TCGA and ICGC, which incubated multi-omics data of about 30 tumor type. These databases have detailed clinical information including clinical outcome, treatment response and drug response. B. Zhang wants to apply many optimized deep learning framework such as Tensorflow/caffe in extracting clinical related molecular feature from multilayered omics data, and to build some sensitive and specific subtyping model to stratify cancer patients into distinct group. For example, to develop radiomics signature corresponded to molecular subgroup, which may serve as a complementary noninvasive tool for tumor genetic test.
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/yading.jpg" width="95%">
+<figure>picpic
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cancer_evolution.png" width="95%">
 </figure>
