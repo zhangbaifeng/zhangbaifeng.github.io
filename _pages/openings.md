@@ -3,27 +3,21 @@ title: "Baifeng Home - Motivations"
 layout: textlay
 excerpt: "Motivations"
 sitemap: false
-permalink: /motivations
+permalink: /vacancies
 ---
 
-# Open positions
+# PhD motivations
 
-We are always looking for new group members with passion, talent, and grit!
+As for the plan of PhD period, B. Zhang will focus on three research directions below **Important**::
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+#### Cancer Evolution
+1.	Deciphering dynamic clonal evolution of tumor and monitoring their genomic alterations underlying drug treatment through ctDNA sequencing and analysis. With the innovation in sequencing technology and exponentially decreasing cost of NGS sequencing, hundreds of thousands of somatic mutations involved in tumorigenesis have been identified. Due to the existence of intra or inter tumor heterogeneity, simply aggrandizing sequencing project scale to uncover more or rare novel variants can’t help us to beat cancer more efficiently. B. Zhang realize that the most important thing we need to focus on is to understand the role of mutations played in tumor evolution and their relation with patients survival outcome, which could give us more precise direction to personalized therapy and to evaluate the treatment efficacy.
 
-#### PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line.
+### Cancer Immunology
+2.	Exploiting vaccines binding to tumor-specific neo-antigen to elicit immunoreactivity in cancer patients. Thousands of mutation offers abundant fuels of vaccines, especially which in clonal state to some extent has higher priority in drug development and can be developed to expand the repertoire of neoantigen-specific T cells and to induce patients immunoreactivity. The use of personal vaccines can address tumor heterogeneity as well as minimize the chance of tumor escape by loss of antigen.
 
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
-
-#### Leiden University master students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-#### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades or a personal recomendation).
+### Deep learning
+3.	Mining of tumor genomics database and applying deep learning algorithms to perform molecular subtyping. There are several well-established cancer databases such as TCGA and ICGC, which incubated multi-omics data of about 30 tumor type. These databases have detailed clinical information including clinical outcome, treatment response and drug response. B. Zhang wants to apply many optimized deep learning framework such as Tensorflow/caffe in extracting clinical related molecular feature from multilayered omics data, and to build some sensitive and specific subtyping model to stratify cancer patients into distinct group. For example, to develop radiomics signature corresponded to molecular subgroup, which may serve as a complementary noninvasive tool for tumor genetic test.
 
 
 <figure>
