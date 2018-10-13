@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Baifeng Home - Motivations"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Motivations"
 sitemap: false
 permalink: /vacancies
 ---
