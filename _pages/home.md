@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+
+
 My name is Baifeng Zhang (B. Zhang), I have focused on the cancer genomes for almost five years. As an undergraduate of [Ningbo University](http://iso.nbu.edu.cn), I was graduated from Ning Bo University (NBU) and majored in molecular biology. I have excellent command of PCR, Primer design, Constructed vector, Connection, Conversion and Coated plates etc. During my study in NBU, I successfully developed a molecular diagnostic assay, which can be used to detect the potential microcystin-producing Microcystis in the aquatic ecosystem. I actively participated in several projects with peer-reviewed papers published on [Harmful Algae](https://doi.org/10.1016/j.hal.2014.04.018), [Acta Ecologica Sinica](https://doi.org/10.5846/stxb201308112059).
 
 As a Bioinformatics Engineer in [BGI](https://www.bgi.com/global/) since 2013, I am proficient in genomic data analysis and mining. I am interested in the large-scale sequencing of cancer genomes and integrative analysis of multilayered genomic data. I have finished analyzing the whole genome, whole exome, RNA-seq and DNA methylation sequencing projects in renal cancer, ovarian cancer and nasopharyngeal carcinoma. A manuscript focused on clonal diversity in the renal cancer have been accepted by [Nature Communications](http://zhangbaifeng.github.io/publications/), in principle.
