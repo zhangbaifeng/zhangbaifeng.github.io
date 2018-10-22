@@ -1,1 +1,70 @@
 
+- title: "SplitFusion: Ultra-sensitive and fast platform for the large-scale clinical screening of oncogenic fusions"
+  image: TCR.amp.png
+  description: "Designed a companion data analysis platform named SplitFusion, to detect gene fusion based on split alignments, such as reads crossing fusion breakpoints, with the ability to accurately infer in-frame or out-of-frame of fusion partners of a given fusion candidate. SplitFusion also outputs example breakpoint-supporting sequences in FASTA format, allowing for further investigations. SplitFusion can economically and effectively distinguish true oncogenic fusions from environment noise, amplification or sequencing errors, especially for low quality input of clinical samples."
+  authors: Baifeng Zhang, Athena Chu, Zongli Zheng
+  link:
+    url:
+    display:  In preparation
+  highlight: 1
+  news2:
+
+- title: "DNA methylation landscape of high grade serous ovarian cancer and integration with mRNA expression"
+  image: landscape.png
+  description: "The detection of differentially methylated regions (DMRs) and DMRs annotation, the correlation analysis between DMRs and gene expression/splice site/transcript factor site, to study the effect of epigenetic modifications in ovarian cancer tumorigenesis."
+  authors: Lian Li*, Baifang Zhang*, Hong Zheng, Fangfang Song, Meng Yang, Xiangchun Li, Jing Tian, Qinghua Wang, Wei Zhang, Kexin Chen
+  link:
+    url:
+    display:  In preparation
+  highlight: 1
+  news2:
+
+- title: "Prognostic and therapeutic relevance of genomic features in clear cell renal cell carcinomas without 3p and 5q copy number alterations"
+  image: circos-example.png
+  description: "The personalized analysis of the project including the detection of somatic structure variants, false positive results filter, SV cluster chain identification, result interpretation, and pan-cancer integrated analysis of TCGA database."
+  authors: Yi Huang, Changxi Wang, Jiayin Wang, Baifeng Zhang, Jiajia Cai, Dan Shen, Xin Yi, Zhiming Cai, and Song Wu
+  link:
+    url:
+    display:  Under review on Clinical Cancer Research
+  highlight: 1
+  news2:
+
+- title: "Clonal architectures predict clinical outcome in clear cell renal cell carcinoma"
+  image: cancer_evolution.png
+  description: "The clonal evolution structure and immunogenicity analysis of 489 clear cell renal carcinomas patients from Japanese/Chinese/TCGA cohorts, including mutational signature analysis, intra-tumor heterogeneity and cancer evolution history analysis, tumor specific neo-antigen analysis, survival analysis."
+  authors: Yi Huang, Jiayin Wang, Peilin Jia, Xiangchun Li, Guangsheng Pei , Changxi Wang, Xiaodong Fang, Zhongming Zhao, Zhiming Cai, Xin Yi, Song Wu, Baifeng Zhang*
+  link:
+    url:
+    display:  Accepted by Nature Communications, in principle
+  highlight: 1
+  news2:
+
+- title: "A mutational signature associated with alcohol consumption and prognostically significantly mutated driver genes in esophageal squamous cell carcinoma"
+  image: signature.png
+  description: "We have uncovered several new SMGs in ESCC and defined an alcohol consumption related mutational signature. TENM3 mutations and the TP53 hotspot mutation p.R213* are independent prognosticators for poor survival in ESCC."
+  authors: X.C. Li, M.Y. Wang, M. Yang, H.J. Dai, B.F. Zhang, W. Wang, X.L. Chu, X. Wang, H. Zheng, R.F. Niu, W. Zhang, K.X. Chen
+  link:
+    url: https://doi.org/10.1093/annonc/mdy011
+    display:  Annals of Oncology 29, 4 (2018)
+  highlight: 1
+  news2:
+
+- title: "A novel assay for rapid detection of microcystin mcyG gene: loop-mediated isothermal amplification"
+  image: lamp.png
+  description: "We designed a set of LAMP primers to target the sequence of the mcyG gene, which is responsible for the first step in the biosynthesis of Adda (3-amino-9-methoxy-2, 6, 8-trim ethyl-10-phenyldeca-4, 6-dienoic acid), an important part of microcystin."
+  authors: ZHANG Baifeng , ZHU Peng , YAN Xiaojun, DANG Chenyang, LV Yating ,WU Jinghua
+  link:
+    url: https://doi.org/10.5846/stxb201308112059
+    display: Acta Ecologica Sinica 35, 9 (2015)
+  highlight: 1
+
+- title: "Sensitive and Rapid Detection of Microcystin Synthetase E Gene (mcyE) by Loop-Mediated Isothermal Amplification: A New Assay for Detecting the Potential Microcystin-producing Cyanobacteria in the Aquatic Ecosystem"
+  image: lamp.png
+  description:
+    We designed a new loop-mediated isothermal amplification (LAMP) assay based on microcystin biosynthesis genes, which allowed the workers, through routine monitoring of potential toxin status in the freshwater, to have enough time to implement a series of control strategies for avoiding human exposure to cyanobacterial hepatotoxins at dangerous levels.
+  authors:
+    Peng Zhu*, Bai-Feng Zhang*, Jing-Hua Wu, Chen-Yang Dang, Ya-Ting Lv, Jian-Zhong Fan, Xiao-Jun Yan
+  link:
+    url: https://doi.org/10.1016/j.hal.2014.04.018
+    display: Harmful Algae 37, 8–16 (2014)
+  highlight: 1
