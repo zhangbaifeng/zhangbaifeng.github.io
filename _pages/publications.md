@@ -1,4 +1,3 @@
-
 ---
 title: "Baifeng Home - Publications"
 layout: gridlay
