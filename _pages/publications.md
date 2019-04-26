@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5sgbZQ4AAAAJ&hl=zh-CN), [ORCID iD](https://orcid.org/0000-0003-1966-2285))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
