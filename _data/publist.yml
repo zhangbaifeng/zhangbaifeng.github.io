@@ -2,7 +2,7 @@
 - title: "SplitFusion: Ultra-sensitive and fast platform for the large-scale clinical screening of oncogenic fusions"
   image: TCR.amp.png
   description: "Designed a companion data analysis platform named SplitFusion, to detect gene fusion based on split alignments, such as reads crossing fusion breakpoints, with the ability to accurately infer in-frame or out-of-frame of fusion partners of a given fusion candidate. SplitFusion also outputs example breakpoint-supporting sequences in FASTA format, allowing for further investigations. SplitFusion can economically and effectively distinguish true oncogenic fusions from environment noise, amplification or sequencing errors, especially for low quality input of clinical samples."
-  authors: Baifeng Zhang, Athena Chu, Zongli Zheng
+  authors: Baifeng Zhang*, Athena Hoi Yee Chu, Siyu Bao, TSZ Yau, Wah Cheuk, Zongli Zheng
   link:
     url:
     display:  In preparation
@@ -12,10 +12,10 @@
 - title: "DNA methylation landscape of high grade serous ovarian cancer and integration with mRNA expression"
   image: landscape.png
   description: "The detection of differentially methylated regions (DMRs) and DMRs annotation, the correlation analysis between DMRs and gene expression/splice site/transcript factor site, to study the effect of epigenetic modifications in ovarian cancer tumorigenesis."
-  authors: Lian Li*, Baifang Zhang*, Hong Zheng, Fangfang Song, Meng Yang, Xiangchun Li, Jing Tian, Qinghua Wang, Wei Zhang, Kexin Chen
+  authors: Fangfang Song*, Lian Li*, Baifang Zhang*, Hong Zheng, Meng Yang, Xiangchun Li, Jing Tian, Qinghua Wang, Wei Zhang, Kexin Chen
   link:
     url:
-    display:  In preparation
+    display:  Under Review on Clinical Epigenetics
   highlight: 1
   news2:
 
@@ -34,8 +34,8 @@
   description: "The clonal evolution structure and immunogenicity analysis of 489 clear cell renal carcinomas patients from Japanese/Chinese/TCGA cohorts, including mutational signature analysis, intra-tumor heterogeneity and cancer evolution history analysis, tumor specific neo-antigen analysis, survival analysis."
   authors: Yi Huang, Jiayin Wang, Peilin Jia, Xiangchun Li, Guangsheng Pei , Changxi Wang, Xiaodong Fang, Zhongming Zhao, Zhiming Cai, Xin Yi, Song Wu, Baifeng Zhang*
   link:
-    url:
-    display:  Accepted by Nature Communications, in principle
+    url: https://www.nature.com/articles/s41467-019-09241-7
+    display:  Nature Communicationsvolume 10, Article number: 1245 (2019)
   highlight: 1
   news2:
 
