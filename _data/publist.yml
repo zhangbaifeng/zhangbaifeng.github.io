@@ -9,7 +9,7 @@
   highlight: 1
   news2:
 
-- title: "DNA methylation landscape of high grade serous ovarian cancer and integration with mRNA expression"
+- title: "Tumor specific methylome in Chinese high-grade serous ovarian cancer characterized by gene expression profile and tumor genotype"
   image: landscape.png
   description: "The detection of differentially methylated regions (DMRs) and DMRs annotation, the correlation analysis between DMRs and gene expression/splice site/transcript factor site, to study the effect of epigenetic modifications in ovarian cancer tumorigenesis."
   authors: Fangfang Song*, Lian Li*, <a style="color:#FF0000; text-decoration:underline">Baifang Zhang*</a>, Hong Zheng, Meng Yang, Xiangchun Li, Jing Tian, Qinghua Wang, Wei Zhang, Kexin Chen
