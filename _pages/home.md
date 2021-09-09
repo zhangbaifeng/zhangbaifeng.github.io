@@ -28,7 +28,6 @@ Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan G
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7""></li>
     </ol>
 
     <!-- Items -->
