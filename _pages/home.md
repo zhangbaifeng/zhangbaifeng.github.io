@@ -73,7 +73,7 @@ Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan G
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BGI_Logo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MWLC_Logo.JPG" style="width: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NBU_Logo.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hkumed_Logo.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hkumed.jpg" style="width: 200px">
   
 </figure>
 
