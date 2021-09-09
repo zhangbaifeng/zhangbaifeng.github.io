@@ -1,7 +1,7 @@
 ---
 title: "Baifeng - Home"
 layout: homelay
-excerpt: "Baifeng at Karolinska Institutet."
+excerpt: "Baifeng at HKUMed."
 sitemap: false
 permalink: /
 ---
