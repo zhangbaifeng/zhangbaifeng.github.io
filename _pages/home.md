@@ -1,7 +1,7 @@
 ---
 title: "Baifeng - Home"
 layout: homelay
-excerpt: "Baifeng at HKUMed."
+excerpt: "Baifeng at HKUMed"
 sitemap: false
 permalink: /
 ---
@@ -21,13 +21,13 @@ Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan G
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="1" class="active"></li>
+        <li data-target="#carousel" data-slide-to="2" class="active"></li>
+        <li data-target="#carousel" data-slide-to="3" class="active"></li>
+        <li data-target="#carousel" data-slide-to="4" class="active"></li>
+        <li data-target="#carousel" data-slide-to="5" class="active"></li>
+        <li data-target="#carousel" data-slide-to="6" class="active"></li>
+        <li data-target="#carousel" data-slide-to="7" class="active"></li>
     </ol>
 
     <!-- Items -->
@@ -39,19 +39,19 @@ Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan G
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cancer_evolution.png" alt="Slide 2" />
         </div>
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/npc.amp.png" alt="Slide 3" />
         </div>
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hr.png" alt="Slide 4" />
         </div>
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/survival.png" alt="Slide 5" />
         </div>
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/landscape.png" alt="Slide 6" />
         </div>
-        <div class="item">
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lamp.png" alt="Slide 7" />
         </div>
     </div> 
@@ -73,7 +73,7 @@ Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan G
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/BGI_Logo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MWLC_Logo.JPG" style="width: 60px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NBU_Logo.jpg" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hkumed.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hkumed.png" style="width: 200px">
   
 </figure>
 
