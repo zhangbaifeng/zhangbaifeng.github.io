@@ -10,7 +10,7 @@ permalink: /research/
 
 **Sub: Cancer Genetics Research**
 
-**Tumor microenvironment research** Karolinska Institutet, 01/2021-present
+**Tumor microenvironment research** HKUMed, 01/2021-present
 
 Summary: Developing computational methods to study cancer genomes (WGS/WES/RNAseq/scRNAseq/Spatial transcriptomics, with particular interest in the interplay between an evolving cancer and a dynamic immune microenvironment.
 
