@@ -21,7 +21,7 @@
 - title: "Ultrasensitive gene fusion detection reveals fusion variant associated tumor heterogeneity"
   image: splitfusion.png
   description: "A companion data analysis platform named SplitFusion, to detect gene fusion based on split alignments, such as reads crossing fusion breakpoints, with the ability to accurately infer in-frame or out-of-frame of fusion partners of a given fusion candidate. SplitFusion also outputs example breakpoint-supporting sequences in FASTA format, allowing for further investigations. SplitFusion can economically and effectively distinguish true oncogenic fusions from environment noise, amplification or sequencing errors, especially for low quality input of clinical samples."
-  authors: <a style="color:#FF0000; text-decoration:underline">Baifeng Zhang*</a>, Zhengbo Song*, Chloe Yufan Bao*, Chunwei Xu*, Wenxian Wang, Hoi Yee Chu, Chenyu Lu, Hongxiang Wang, Siyu Bao, Zhenyu Gong, Hoi Yee Keung, Maggie Chow, Yiping Zhang, Wah Cheuk, Mengsu Yang, William Cho, Juxiang Chen, Zongli Zheng#
+  authors: <a style="color:#FF0000; text-decoration:underline">Baifeng Zhang*</a>, Zhengbo Song*, Chloe Yufan Bao*, Chunwei Xu*, Wenxian Wang, Hoi Yee Chu, Chenyu Lu, Hongxiang Wang, Siyu Bao, Zhenyu Gong, Hoi Yee Keung, Maggie Chow, Yiping Zhang, Wah Cheuk, Mengsu Yang, William Cho#, Juxiang Chen#, Zongli Zheng#
   link:
     url: https://www.researchsquare.com/article/rs-39138/v1
     display: Research Square
