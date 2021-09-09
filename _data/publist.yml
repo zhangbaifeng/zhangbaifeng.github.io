@@ -2,7 +2,7 @@
   image: hr.png
   description: "This study found racial differences of mutational signatures to be associated with differences in diverse genetic backgrounds and environmental factors, which might help guide the personalized treatment of HCC patients."
   authors: <a style="color:#FF0000; text-decoration:underline">Baifeng Zhang*</a>, Xinyuan Guan#
-    url: https://hrjournal.net/article/view/4278
+    url:
     display:  Hepatoma Research
   highlight: 1
   news2:
