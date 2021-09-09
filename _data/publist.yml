@@ -1,5 +1,5 @@
 - title: "Racial difference of mutational signature in hepatocellular carcinoma"
-  image: .png
+  image: hr.png
   description: "This study found racial differences of mutational signatures to be associated with differences in diverse genetic backgrounds and environmental factors, which might help guide the personalized treatment of HCC patients."
   authors: <a style="color:#FF0000; text-decoration:underline">Baifeng Zhang*</a>, Xinyuan Guan#
     url: https://hrjournal.net/article/view/4278
@@ -8,7 +8,7 @@
   news2:
   
 - title: "Comprehensive single-cell sequencing reveals the stromal dynamics and tumor-specific characteristics in the microenvironment of nasopharyngeal carcinoma"
-  image: .png
+  image: npc.png
   description: "Single-cell RNA sequencing to 66,627 cells from 14 patients, integrated with clonotype identification on T and B cells."
   authors: Lanqi Gong, Dora Lai-Wan Kwong, Wei Dai, Pingan Wu, Shanshan Li, Qian Yan, Yu Zhang, <a style="color:#FF0000; text-decoration:underline">Baifeng Zhang</a>, Xiaona Fang, Li Liu, Min Luo, Beilei Liu, Larry Ka-Yue Chow, Qingyun Chen, Jinlin Huang, Victor Ho-Fun Lee, Ka-On Lam, Anthony Wing-Ip Lo, Zhiwei Chen, Yan Wang, Anne Wing-Mui Lee & Xinyuan Guan#
     url: https://www.nature.com/articles/s41467-021-21795-z
@@ -17,7 +17,7 @@
   news2:
   
 - title: "Ultrasensitive gene fusion detection reveals fusion variant associated tumor heterogeneity"
-  image: .png
+  image: splitfusion.png
   description: "A companion data analysis platform named SplitFusion, to detect gene fusion based on split alignments, such as reads crossing fusion breakpoints, with the ability to accurately infer in-frame or out-of-frame of fusion partners of a given fusion candidate. SplitFusion also outputs example breakpoint-supporting sequences in FASTA format, allowing for further investigations. SplitFusion can economically and effectively distinguish true oncogenic fusions from environment noise, amplification or sequencing errors, especially for low quality input of clinical samples."
   authors: <a style="color:#FF0000; text-decoration:underline">Baifeng Zhang*</a>, Zhengbo Song*</a>, Chloe Yufan Bao*</a>, Chunwei Xu*</a>, Wenxian Wang, Hoi Yee Chu, Chenyu Lu, Hongxiang Wang, Siyu Bao, Zhenyu Gong, Hoi Yee Keung, Maggie Chow, Yiping Zhang, Wah Cheuk, Mengsu Yang, William Cho#, Juxiang Chen#, Zongli Zheng#
   link:
