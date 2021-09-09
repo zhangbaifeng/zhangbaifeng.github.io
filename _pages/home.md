@@ -8,11 +8,15 @@ permalink: /
 
 
 
-My name is Baifeng Zhang (B. Zhang), I have focused on the cancer genomes for almost five years. As an undergraduate of [Ningbo University](http://iso.nbu.edu.cn), I was graduated from Ning Bo University (NBU) and majored in molecular biology. I have excellent command of PCR, Primer design, Constructed vector, Connection, Conversion and Coated plates etc. During my study in NBU, I successfully developed a molecular diagnostic assay, which can be used to detect the potential microcystin-producing Microcystis in the aquatic ecosystem. I actively participated in several projects with peer-reviewed papers published on [Harmful Algae](https://doi.org/10.1016/j.hal.2014.04.018), [Acta Ecologica Sinica](https://doi.org/10.5846/stxb201308112059).
+My name is Baifeng Zhang (B. Zhang).
 
-As a Bioinformatics Engineer in [BGI](https://www.bgi.com/global/) since 2013, I am proficient in genomic data analysis and mining. I am interested in the large-scale sequencing of cancer genomes and integrative analysis of multilayered genomic data. I have finished analyzing the whole genome, whole exome, RNA-seq and DNA methylation sequencing projects in renal cancer, ovarian cancer and nasopharyngeal carcinoma. A manuscript focused on clonal diversity in the renal cancer have been published by [Nature Communications](http://zhangbaifeng.github.io/publications/).
+I was graduated with bachelor degree from [Ningbo University (NBU)](http://iso.nbu.edu.cn) and majored in molecular biology. I have excellent command of PCR, Primer design, Constructed vector, Connection, Conversion and Coated plates etc. During my study in NBU, I successfully developed a molecular diagnostic assay, which can be used to detect the potential microcystin-producing Microcystis in the aquatic ecosystem. I actively participated in several projects with peer-reviewed papers published on [Harmful Algae](https://doi.org/10.1016/j.hal.2014.04.018), [Acta Ecologica Sinica](https://doi.org/10.5846/stxb201308112059).
 
-Now, I am a researh assistant of [Zongli Zheng's group](https://ki.se/en/research/zongli-zheng) at Karolinska Institutet.
+Since 2013, I started my journey as a Bioinformatics Engineer in [BGI](https://www.bgi.com/global/), and then leaded several large-scale projects analyzing the whole genome, whole exome, RNA-seq and DNA methylation sequencing data from renal cancer ([Nature Communications](http://zhangbaifeng.github.io/publications/)), bladder cancer, ovarian cancer ([Gynecologic Oncology](http://zhangbaifeng.github.io/publications/))and nasopharyngeal carcinoma patients.
+
+At 2018, I moved to Karolinska Institutet as a researh assistant of [Zongli Zheng's group](https://ki.se/en/research/zongli-zheng) and focused on a clinical-grade fusion detection algorithm with high research potentials ([SplitFusion](https://www.researchsquare.com/article/rs-39138/v1)).
+
+Now, I am pursuing my PhD degree under the joint-supervision of Prof. Xinyuan Guan (academical) and Prof. Dora Lai-wan KWONG (clinical), from Department of Clinical Oncology in Li Ka Shing Faculty of Medicine, The University of Hong Kong (HKUMed). 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -29,13 +33,16 @@ Now, I am a researh assistant of [Zongli Zheng's group](https://ki.se/en/researc
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/splitfusion.png" alt="Slide 1" />
+        </div>
+        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cancer_evolution.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TCR.amp.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/npc.amp.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/circos-example.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hr.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/survival.png" alt="Slide 4" />
