@@ -16,7 +16,7 @@ Since 2013, I started my journey as a Bioinformatics Engineer in [BGI](https://w
 
 At 2018, I moved to Karolinska Institutet as a researh assistant of [Zongli Zheng's group](https://ki.se/en/research/zongli-zheng) and focused on a clinical-grade fusion detection algorithm with high research potentials ([SplitFusion](https://www.researchsquare.com/article/rs-39138/v1)).
 
-Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan Guan (academical)](https://www.oncology.hku.hk/en/Our-Team/Academic-Staff/Professor-Xin-yuan-GUAN/Professor-Xin-yuan-GUAN-Profile) and [Prof. Dora Lai-wan KWONG (clinical)](https://www.oncology.hku.hk/en/Our-Team/Academic-Staff/Professor-Dora-Lai-wan-KWONG/Professor-Dora-Lai-wan-KWONG-Profile), from Department of Clinical Oncology in Li Ka Shing Faculty of Medicine, The University of Hong Kong ([HKUMed](https://www.med.hku.hk/)). 
+Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan Guan (academical)](https://www.oncology.med.hku.hk/en/Our-Team/Academic-Staff/Professor-Xin-yuan-GUAN/Professor-Xin-yuan-GUAN-Profile) and [Prof. Dora Lai-wan KWONG (clinical)](https://www.oncology.med.hku.hk/en/Our-Team/Academic-Staff/Professor-Dora-Lai-wan-KWONG/Professor-Dora-Lai-wan-KWONG-Profile), from Department of Clinical Oncology in Li Ka Shing Faculty of Medicine, The University of Hong Kong ([HKUMed](https://www.med.hku.hk/)). 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
