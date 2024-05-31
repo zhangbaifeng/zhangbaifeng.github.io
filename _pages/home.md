@@ -1,4 +1,4 @@
----
+![image](https://github.com/zhangbaifeng/zhangbaifeng.github.io/assets/13551322/25c20d96-43e3-4471-a15d-0488eaf061d4)---
 title: "Baifeng - Home"
 layout: homelay
 excerpt: "Baifeng at HKUMed"
@@ -8,15 +8,15 @@ permalink: /
 
 
 
-My name is Baifeng Zhang (B. Zhang).
+My name is Baifeng Zhang (B. Zhang), seeking a postdoctoral position starting in September 2024 to study the tumor metastasis microenvironment.
 
-I was graduated with bachelor degree from [Ningbo University (NBU)](http://iso.nbu.edu.cn) and majored in molecular biology. I have excellent command of PCR, Primer design, Constructed vector, Connection, Conversion and Coated plates etc. During my study in NBU, I successfully developed a molecular diagnostic assay, which can be used to detect the potential microcystin-producing Microcystis in the aquatic ecosystem. I actively participated in several projects with peer-reviewed papers published on [Harmful Algae](https://doi.org/10.1016/j.hal.2014.04.018), [Acta Ecologica Sinica](https://doi.org/10.5846/stxb201308112059).
+I am computational biologist with coding training and research expertise in cancer evolution and metastatic microenvironment.
 
-Since 2013, I started my journey as a Bioinformatics Engineer in [BGI](https://www.bgi.com/global/), and then leaded several large-scale projects analyzing the whole genome, whole exome, RNA-seq and DNA methylation sequencing data from renal cancer ([Nature Communications](http://zhangbaifeng.github.io/publications/)), bladder cancer, ovarian cancer ([Gynecologic Oncology](http://zhangbaifeng.github.io/publications/))and nasopharyngeal carcinoma patients.
+I was graduated with bachelor degree from [Ningbo University (NBU)](http://iso.nbu.edu.cn) and majored in molecular biology. I have excellent command of PCR, Primer design, Constructed vector, Connection, Conversion and Coated plates etc. As an undergraduate, I conducted research with Dr. Xiaojun Yan and successfully developed a molecular diagnostic assay (loop-mediated isothermal amplification), which can be used to detect the potential microcystin-producing Microcystis in the aquatic ecosystem. The assay is simpler and more accurate in the field than previously published traditional PCR assays. A subsequent first and co-first author publications were featured articles on the major journals [Harmful Algae](https://doi.org/10.1016/j.hal.2014.04.018), [Acta Ecologica Sinica](https://doi.org/10.5846/stxb201308112059).
 
-At 2018, I moved to Karolinska Institutet as a researh assistant of [Zongli Zheng's group](https://ki.se/en/research/zongli-zheng) and focused on a clinical-grade fusion detection algorithm with high research potentials ([SplitFusion](https://www.researchsquare.com/article/rs-39138/v1)).
+Since 2013, I started my journey as a Bioinformatics Engineer and worked with Dr. Xiangchun Li in [BGI](https://www.bgi.com/global/), and then leaded several large-scale projects analyzing the whole genome, whole exome, RNA-seq and DNA methylation sequencing data from renal cancer ([Nature Communications 2019](https://doi.org/10.1038/s41467-019-09241-7 )), ovarian cancer ([Gynecologic Oncology 2020](https://doi.org/10.1016/j.ygyno.2020.04.688 )), bladder cancer ([Molecular Oncology 2022](https://doi.org/10.1002/1878-0261.13360)) and glioma patients ([iScience 2022](https://doi.org/10.1016/j.isci.2022.105681)). At 2018, I moved to Karolinska Institutet as a researh assistant of [Dr. Zongli Zheng's group](https://ki.se/en/research/zongli-zheng) and focused on a clinical-grade fusion detection algorithm with high research potentials ([SplitFusion](https://doi.org/10.21203/rs.3.rs-39138/v1)).
 
-Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan Guan (academical)](https://hub.hku.hk/cris/rp/rp00454) and [Prof. Dora Lai-wan KWONG (clinical)](https://hub.hku.hk/cris/rp/rp00414), from Department of Clinical Oncology in Li Ka Shing Faculty of Medicine, The University of Hong Kong ([HKUMed](https://www.med.hku.hk/)). 
+Now, I am pursuing my PhD degree under the joint-supervision of [Prof. Xinyuan Guan (academical)](https://hub.hku.hk/cris/rp/rp00454) and [Prof. Dora Lai-wan KWONG (clinical)](https://hub.hku.hk/cris/rp/rp00414), from Department of Clinical Oncology in Li Ka Shing Faculty of Medicine, The University of Hong Kong ([HKUMed](https://www.med.hku.hk/)). My research focuses on computational cancer genomics, taking advantage of massively parallel sequencing (single cell and spatial transcriptomics to 1) study the heterogeneity and evolutional trajectories of cancer cells, and 2) the interplay between an evolving cancer and its surrounding immune microenvironment ([Hepatoma Research 2021](http://dx.doi.org/10.20517/2394-5079.2021.81); [Advanced Science 2023](https://doi.org/10.1002/advs.202204565); [PNAS 2023](https://doi.org/10.1073/pnas.2307914120)).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
