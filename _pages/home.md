@@ -1,4 +1,3 @@
-![image](https://github.com/zhangbaifeng/zhangbaifeng.github.io/assets/13551322/25c20d96-43e3-4471-a15d-0488eaf061d4)---
 title: "Baifeng - Home"
 layout: homelay
 excerpt: "Baifeng at HKUMed"
