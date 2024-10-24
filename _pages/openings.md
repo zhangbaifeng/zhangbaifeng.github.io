@@ -6,9 +6,9 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# PhD motivations
+# Future motivations
 
-As for the plan of **PhD period**, B. Zhang will focus on three **research directions** below:
+As for the plan of **future period**, B. Zhang will focus on three **research directions** below:
 
 #### Cancer Evolution
 Deciphering dynamic clonal evolution of tumor and monitoring their genomic alterations underlying drug treatment through ctDNA sequencing and analysis. With the innovation in sequencing technology and exponentially decreasing cost of NGS sequencing, hundreds of thousands of somatic mutations involved in tumorigenesis have been identified. Due to the existence of intra or inter tumor heterogeneity, simply aggrandizing sequencing project scale to uncover more or rare novel variants can’t help us to beat cancer more efficiently. B. Zhang realize that the most important thing we need to focus on is to understand the role of mutations played in tumor evolution and their relation with patients survival outcome, which could give us more precise direction to personalized therapy and to evaluate the treatment efficacy.
