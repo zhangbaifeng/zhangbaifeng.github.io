@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **I am applying for a PhD positon major in Cancer evolution, Immunology, and Deep learning** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **I am applying for a faculty positon in Cancer evolution, Immunology, and Deep learning** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
