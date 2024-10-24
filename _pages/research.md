@@ -57,7 +57,7 @@ Summary: Designed the PCR primer, Performed Molecular cloning experiment includi
 
 # Work experience
 
-**Research Assistant** at Ming Wai Lau Centre for Reparative Medicine, Karolinska Institutet, Hong Kong (04/2018 – Present)
+**Research Assistant** at Ming Wai Lau Centre for Reparative Medicine, Karolinska Institutet, Hong Kong (04/2018 – 04/2020)
 
 **Bioinformatics Engineer** at Department of Cancer Genetics Research, BGI-Shenzhen, Shenzhen, China (08/2013 – 04/2018)
 
