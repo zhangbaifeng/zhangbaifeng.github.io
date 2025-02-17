@@ -8,7 +8,7 @@ permalink: /
 
 
 
-My name is Baifeng Zhang (B. Zhang), a computational biologist with coding training and research expertise in cancer evolution and metastatic microenvironment.
+My name is Baifeng Zhang (B. Zhang), a computational biologist with coding training and research expertise in cancer evolution and metastatic microenvironment, currently working as a Postdoctoral Fellow in [Prof. Linghua Wang's lab](https://faculty.mdanderson.org/profiles/linghua_wang.html) at MD Anderson Cancer Center.
 
 I was graduated with bachelor degree from [Ningbo University (NBU)](http://iso.nbu.edu.cn) and majored in molecular biology. I have excellent command of PCR, Primer design, Constructed vector, Connection, Conversion and Coated plates etc. As an undergraduate, I conducted research with Dr. Xiaojun Yan and successfully developed a molecular diagnostic assay (loop-mediated isothermal amplification), which can be used to detect the potential microcystin-producing Microcystis in the aquatic ecosystem. The assay is simpler and more accurate in the field than previously published traditional PCR assays. A subsequent first and co-first author publications were featured articles on the major journals [Harmful Algae](https://doi.org/10.1016/j.hal.2014.04.018), [Acta Ecologica Sinica](https://doi.org/10.5846/stxb201308112059).
 
